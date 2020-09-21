@@ -1,0 +1,19 @@
+body {
+  margin: 0 auto;
+  box-sizing: border-box;
+  height: 100%;
+}
+
+.header {
+  display: flex;
+  background-color: #f4f9e2;
+}
+
+.header_logo {
+  font-family: ;
+}
+
+.intro {
+  display: flex;
+  background-color: #f4f9e2;
+}

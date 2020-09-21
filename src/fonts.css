@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "Larrseit";
+  src: url("../fonts/Larsseit-Light.eot");
+  src: url("../fonts/Larsseit-Light.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Larsseit-Light.woff") format("woff"),
+    url("../fonts/Larsseit-Light.ttf") format("truetype");
+  font-style: light;
+  font-weight: light;
+}
