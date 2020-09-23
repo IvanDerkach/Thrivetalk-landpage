@@ -1,9 +1,49 @@
 @font-face {
-  font-family: "Larrseit";
-  src: url("../fonts/Larsseit-Light.eot");
-  src: url("../fonts/Larsseit-Light.eot?#iefix") format("embedded-opentype"),
-    url("../fonts/Larsseit-Light.woff") format("woff"),
-    url("../fonts/Larsseit-Light.ttf") format("truetype");
-  font-style: light;
-  font-weight: light;
+  font-family: "Larrseit-Light";
+  src: url("./fonts/Larsseit-Light/Larsseit-Light.eot");
+  src: url("./fonts/Larsseit-Light/Larsseit-Light.eot?#iefix")
+      format("embedded-opentype"),
+    url("./fonts/Larsseit-Light/Larsseit-Light.woff") format("woff"),
+    url("./fonts/Larsseit-Light/Larsseit-Light.ttf") format("truetype");
+  font-style: normal;
+  font-weight: lighter;
+}
+@font-face {
+  font-family: "Larrseit-Regular";
+  src: url("./fonts/Larsseit/Larsseit.eot");
+  src: url("./fonts/Larsseit/Larsseit.eot?#iefix") format("embedded-opentype"),
+    url("./fonts/Larsseit/Larsseit.woff") format("woff"),
+    url("./fonts/Larsseit/Larsseit.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "Larrseit-Medium";
+  src: url("./fonts/Larsseit-Medium/Larsseit-Medium.eot");
+  src: url("./fonts/Larsseit-Medium/Larsseit-Medium.eot?#iefix")
+      format("embedded-opentype"),
+    url("./fonts/Larsseit-Medium/Larsseit-Medium.woff") format("woff"),
+    url("./fonts/Larsseit-Medium/Larsseit-Medium.ttf") format("truetype");
+  font-style: normal;
+  font-weight: bold;
+}
+@font-face {
+  font-family: "Larrseit-Bold";
+  src: url("./fonts/Larsseit-Bold/Larsseit-Bold.eot");
+  src: url("./fonts/Larsseit-Bold/Larsseit-Bold.eot?#iefix")
+      format("embedded-opentype"),
+    url("./fonts/Larsseit-Bold/Larsseit-Bold.woff") format("woff"),
+    url("./fonts/Larsseit-Bold/Larsseit-Bold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: bold;
+}
+@font-face {
+  font-family: "Larsseit-Extrabold";
+  src: url("./fonts/Larsseit-Extrabold/Larsseit-Extrabold.eot");
+  src: url("./fonts/Larsseit-Extrabold/Larsseit-Extrabold.eot?#iefix")
+      format("embedded-opentype"),
+    url("./fonts/Larsseit-Extrabold/Larsseit-Extrabold.woff") format("woff"),
+    url("./fonts/Larsseit-Extrabold/Larsseit-Extrabold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: bolder;
 }
