@@ -1,5 +1,5 @@
 @font-face {
-  font-family: "Larrseit-Light";
+  font-family: "Larsseit-Light";
   src: url("./fonts/Larsseit-Light/Larsseit-Light.eot");
   src: url("./fonts/Larsseit-Light/Larsseit-Light.eot?#iefix")
       format("embedded-opentype"),
@@ -9,7 +9,7 @@
   font-weight: lighter;
 }
 @font-face {
-  font-family: "Larrseit-Regular";
+  font-family: "Larsseit-Regular";
   src: url("./fonts/Larsseit/Larsseit.eot");
   src: url("./fonts/Larsseit/Larsseit.eot?#iefix") format("embedded-opentype"),
     url("./fonts/Larsseit/Larsseit.woff") format("woff"),
@@ -18,7 +18,7 @@
   font-weight: normal;
 }
 @font-face {
-  font-family: "Larrseit-Medium";
+  font-family: "Larsseit-Medium";
   src: url("./fonts/Larsseit-Medium/Larsseit-Medium.eot");
   src: url("./fonts/Larsseit-Medium/Larsseit-Medium.eot?#iefix")
       format("embedded-opentype"),
@@ -28,7 +28,7 @@
   font-weight: bold;
 }
 @font-face {
-  font-family: "Larrseit-Bold";
+  font-family: "Larsseit-Bold";
   src: url("./fonts/Larsseit-Bold/Larsseit-Bold.eot");
   src: url("./fonts/Larsseit-Bold/Larsseit-Bold.eot?#iefix")
       format("embedded-opentype"),
