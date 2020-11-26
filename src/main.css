@@ -250,7 +250,6 @@ body {
   font-size: 32px;
   line-height: 34px;
   text-align: start;
-  background-color: blueviolet;
   color: #ffffff;
 }
 
@@ -259,7 +258,7 @@ body {
 }
 
 .color_strong-blue {
-  background-color:#0052c1;
+  background-color: #0052c1;
 }
 
 .card_image {
@@ -269,7 +268,7 @@ body {
 }
 
 .color_soft-syan {
-  background-color:#62d0df;
+  background-color: #62d0df;
 }
 
 .color_very-pale-blue {
@@ -294,4 +293,34 @@ body {
   content: "\2022";
   color: #e9b730;
   padding-right: 15px;
+}
+
+.services_description-container {
+  margin-top: 22px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.services_description {
+  box-sizing: border-box;
+  flex-basis: 33.3%;
+  padding: 77px;
+}
+
+.services_description-title {
+  font-family: "Larsseit-Medium";
+  font-size: 28px;
+  line-height: 33px;
+  color: #22356f;
+}
+
+.services_description-text {
+  font-family: "Larsseit-Light";
+  font-size: 16px;
+  line-height: 25px;
+  letter-spacing: -0.03em;
+  color: #22356f;
+  width: 300px;
+  opacity: 75%;
 }
