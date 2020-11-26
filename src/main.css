@@ -249,7 +249,7 @@ body {
   font-family: "Larsseit-Medium";
   font-size: 32px;
   line-height: 34px;
-  text-align: center;
+  text-align: start;
   background-color: blueviolet;
   color: #ffffff;
 }
@@ -278,4 +278,20 @@ body {
 
 .color_violet {
   background-color: #8f00ff;
+}
+
+.services_card-text {
+  padding-top: 30px;
+  border-top: 1px solid white;
+  margin: 96px 70px;
+  word-spacing: 100vw;
+}
+
+.services_card-text:before {
+  width: 20px;
+  height: 20px;
+  align-self: flex-start;
+  content: "\2022";
+  color: #e9b730;
+  padding-right: 15px;
 }
