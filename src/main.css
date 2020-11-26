@@ -10,7 +10,7 @@ body {
   background-color: #f4f9e2;
 }
 
-.header-container {
+.header_container {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -61,7 +61,7 @@ body {
   width: 100%;
 }
 
-.intro-container {
+.intro_container {
   display: flex;
   flex-direction: column;
   width: 484px;
@@ -121,7 +121,7 @@ body {
   background: url("./img/description_background.png") no-repeat right, #62d0df;
 }
 
-.description-container {
+.description_container {
   margin-top: 117px;
   margin-left: 180px;
   width: 555px;
