@@ -231,3 +231,51 @@ body {
 .color4 {
   background-color: #0052c1;
 }
+
+.services_cards-container {
+  margin-top: 120px;
+  display: flex;
+  flex-direction: column;
+}
+
+.services_cards {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.services_card {
+  flex-basis: 33.3%;
+  height: 480px;
+  font-family: "Larsseit-Medium";
+  font-size: 32px;
+  line-height: 34px;
+  text-align: center;
+  background-color: blueviolet;
+  color: #ffffff;
+}
+
+.color_very-dark-blue {
+  background-color: #22356f;
+}
+
+.color_strong-blue {
+  background-color:#0052c1;
+}
+
+.card_image {
+  background-image: url(./img/nutrition_card_background.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.color_soft-syan {
+  background-color:#62d0df;
+}
+
+.color_very-pale-blue {
+  background-color: #dee1ff;
+}
+
+.color_violet {
+  background-color: #8f00ff;
+}
